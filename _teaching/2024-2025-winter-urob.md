@@ -6,6 +6,7 @@ permalink: /teaching/2024-2025-winter-urob
 venue: "CTU FEE, Department of Cybernetics"
 date: 2024-09-23
 location: "Prague, CZE"
+share: false
 ---
 
 2024/2025 Winter semester
