@@ -2,7 +2,7 @@
 title: "B241 - Robot Learning - UROB"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-2025-winter-urob
+permalink: /teaching/b241-urob
 venue: "CTU FEE, Department of Cybernetics"
 date: 2024-09-23
 location: "Prague, CZE"
