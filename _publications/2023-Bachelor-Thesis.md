@@ -1,7 +1,6 @@
 ---
 title: "Bachelor Thesis: Autonomous Road Crossing with a Mobile Robot"
 collection: publications
-category: manuscripts
 permalink: /publication/bachelor-thesis
 excerpt: 'This work proposes, implements and evaluates a control algorithm for safe road crossing with a mobile robot.'
 date: 2023-01-04
@@ -23,4 +22,3 @@ title={Autonomous Road Crossing with a Mobile Robot},
   url={http://hdl.handle.net/10467/109306}
 }
 ```
-
