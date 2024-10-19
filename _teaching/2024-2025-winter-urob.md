@@ -21,13 +21,21 @@ Course's main github repository is available [here](https://github.com/urob-ctu)
 
 Unofficial course materials are available [here](https://urob-ctu.github.io/docs/). Still in development, for extra points you can help us with the development.
 
-## Lab 4: Convolutional Neural Networks
+## Lab 4: Backpropagation
 
-TBA
+This lab is focused on the backpropagation algorithm. How it functions and where it came from.
 
-## Lab 5: Backpropagation
+Part of the lab is dedicated to the implementation of the backpropagation algorithm from scratch. The goal is to understand how the algorithm works and how to implement it.
 
-TBA
+Materials for the lab are available [here](/files/lab04.zip).
+
+Slides are available [here](/files/lab04.pdf).
+
+## Lab 5: Convolutional Neural Networks
+
+This lab is focused on convolutional neural networks. How they work and where they are used.
+
+Material for the lab is available [here](/files/lab05.zip).
 
 ## HW 2: Autograd
 
