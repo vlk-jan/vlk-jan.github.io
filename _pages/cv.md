@@ -24,7 +24,7 @@ redirect_from:
 
 * Porsche Engineering Student Contest 2022
   * 2nd place
-  * The goal was to develop software for autonomous car model and compete against other teams in terms of speed and accuracy. The task was to do laps in a circuit marked by black tape and detect road signs and obstacles.ithub University
+  * The goal was to develop software for autonomous car model and compete against other teams in terms of speed and accuracy. The task was to do laps in a circuit marked by black tape and detect road signs and obstacles
 
 * Duke of Edinburgh International Award
   * I achieved all three possible levels – Bronze, Silver and Gold. The highest one in 2018.
