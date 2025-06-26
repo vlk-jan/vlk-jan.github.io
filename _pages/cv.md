@@ -11,7 +11,8 @@ redirect_from:
 
 ## Education
 
-* M.S. in Cybernetics and robotics, Czech Technical University, 2025 (expected)
+* Ph.D. in Cybernetics and robotics, Czech Technical University, 2025 - present
+* M.S. in Cybernetics and robotics, Czech Technical University, 2025
 * B.S. in Cybernetics and robotics, Czech Technical University, 2023
 
 ## Work experience

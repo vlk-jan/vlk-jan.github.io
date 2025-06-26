@@ -1,7 +1,7 @@
 ---
-title: "Bachelor Thesis: Autonomous Road Crossing with a Mobile Robot"
+title: "Bachelor's Thesis: Autonomous Road Crossing with a Mobile Robot"
 collection: publications
-permalink: /publication/bachelor-thesis
+permalink: /publication/bachelors-thesis
 excerpt: 'This work proposes, implements and evaluates a control algorithm for safe road crossing with a mobile robot.'
 date: 2023-01-04
 venue: 'CTU Digital Library'
@@ -15,10 +15,10 @@ This work proposes, implements and evaluates a control algorithm for safe road c
 BibTeX:
 
 ```
-@inproceedings{Paplhm2020ConvolutionalNN,
+@inproceedings{Vlk2023RoadCrossing,
 title={Autonomous Road Crossing with a Mobile Robot},
   author={Jan Vlk},
-  year={2020},
+  year={2023},
   url={http://hdl.handle.net/10467/109306}
 }
 ```
